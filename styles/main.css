@@ -8,6 +8,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 */
 
 body{
-    background-color: grey;
+    background-color: #ccffff;
+    font-family: "Montserrat";
+}
+
+h1{
+    color: #660066;
 }
 
