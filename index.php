@@ -32,7 +32,9 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
   <?php 
         echo "Chomi, cuando no era tierra todavía";
    ?>
-        
+    <footer>
+        <p>Ariel Ayala Jacquet - 2022</p>
+    </footer>
         
     </body>
 </html>
